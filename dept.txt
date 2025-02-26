@@ -1,4 +1,4 @@
 deptid department
 10 hr
 20 it
-30 dev
+30 sales
